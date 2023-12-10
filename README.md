@@ -2,7 +2,7 @@
 
 Este repositório contém uma coletânea de materiais didáticos dedicados ao estudo dos Sistemas Operacionais. É uma fonte valiosa para estudantes de informática, profissionais de TI e entusiastas da área que desejam consolidar seus conhecimentos sobre o funcionamento interno e a gestão de Sistemas Operacionais modernos.
 
-![Sistema Operacional Monolítico](Images/linux.jpeg)
+![Sistema Operacional Monolítico](Image/linux.jpeg)
 
 ## Conteúdo
 
